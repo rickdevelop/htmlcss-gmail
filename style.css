@@ -26,3 +26,27 @@ header > span{
   background-color: orange;
   border-radius: 50%;
 }
+
+.email-container > .email{
+  padding: 3px 0;
+  border: 1px solid black;
+}
+
+.email{
+  color: #cecece;
+}
+
+.email > span{
+  color: black;
+  font-weight: bold;
+}
+
+
+
+.read{
+  background-color: grey;
+}
+
+.unread{
+  background-color: white;
+}
