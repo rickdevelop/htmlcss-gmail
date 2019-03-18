@@ -16,3 +16,13 @@ header > span{
   color: white;
   font-size: 30px;
 }
+
+.unread-count{
+  font-size: 30px;
+  color:white;
+}
+
+.unread-count > span{
+  background-color: orange;
+  border-radius: 50%;
+}
