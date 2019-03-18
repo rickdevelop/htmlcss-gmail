@@ -44,9 +44,19 @@ header > span{
 
 
 .read{
-  background-color: grey;
+  background-color: #afacac;
 }
 
 .unread{
-  background-color: white;
+  background-color: #f4f4f4;
+}
+
+
+
+footer{
+text-align: center;
+color:#fff;
+font-size: 30px;
+font-style: oblique;
+font-weight: bolder;
 }
